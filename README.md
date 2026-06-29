@@ -40,9 +40,9 @@ This project demonstrates sensor integration, real-time monitoring, and basic em
 
 ## ▶️ Wokwi Simulation
 
-Run the project online:
+Run the complete project directly in your browser:
 
-**(Add your Wokwi project link here)**
+👉 **[Open the Interactive Wokwi Simulation](https://wokwi.com/projects/468176955353508865)**
 
 ---
 
