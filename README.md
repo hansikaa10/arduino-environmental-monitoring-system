@@ -83,4 +83,5 @@ Gas-Monitoring-System/
 
 ---
 
+This project provides a solid foundation for an embedded environmental monitoring system and can be extended into a complete IoT solution with cloud connectivity, remote monitoring, and real-time alerting.
 
