@@ -34,7 +34,7 @@ This project demonstrates sensor integration, real-time monitoring, and basic em
 
 ## 📷 Circuit
 
-*Insert your Wokwi circuit screenshot here.*
+![Circuit Diagram](circuit.png)
 
 ---
 
