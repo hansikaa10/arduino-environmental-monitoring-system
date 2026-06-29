@@ -1,4 +1,4 @@
-# 🌡️ Arduino Environmenntal Monitoring System
+# 🌡️ Arduino Environmental Monitoring System
 
 A simple Arduino-based environmental monitoring system that continuously measures **gas concentration, temperature, and humidity**. Sensor readings are displayed on a 16×2 I2C LCD while an active buzzer alerts the user whenever gas levels exceed predefined safety thresholds.
 
@@ -45,16 +45,14 @@ Run the complete project directly in your browser:
 👉 **[Open the Interactive Wokwi Simulation](https://wokwi.com/projects/468176955353508865)**
 
 ---
-
 ## 📂 Project Structure
 
-```
-Gas-Monitoring-System/
+```text
+arduino-environmental-monitoring-system/
 │
-├── Gas_Monitor.ino
 ├── README.md
-└── images/
-    └── circuit.png
+├── circuit.png
+└── environmental_monitor.ino
 ```
 
 ---
